@@ -22,8 +22,8 @@ function App() {
             <Route path='/' element={<Home />} ></Route>
             <Route path='/Abinav' element={<Abinav />} ></Route>
             {/* <Route path='/Akarsh' element={<Akarsh />}></Route>
-            <Route path='/Akshay' element={<Akshay />}></Route>
-            <Route path='/Anandhu' element={<Anandhu />}></Route> */}
+            <Route path='/Akshay' element={<Akshay />}></Route>*/}
+            <Route path='/Anandhu' element={<Anandhu />}></Route> 
           </Routes>
        
         <Footer />
