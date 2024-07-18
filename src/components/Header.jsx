@@ -11,7 +11,7 @@ function Header() {
         <ul className='navbar-nav d-flex flex-row justify-content-between gap-5 fs-3 '>
                 <li className='nav-item'><Link className='nav-link' to='/'>Home</Link></li>
                 <li className='nav-item'><Link className='nav-link' to='/Abinav'>Abinav</Link></li>
-                <li className='nav-item'><Link className='nav-link' to=''>Akarsh</Link></li>
+                <li className='nav-item'><Link className='nav-link' to='/Akarsh'>Akarsh</Link></li>
                 <li className='nav-item'><Link className='nav-link' to=''>Akshay</Link></li>
                 <li className='nav-item'><Link className='nav-link' to=''>Anandhu</Link></li>
                 
