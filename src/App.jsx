@@ -7,7 +7,7 @@ import Home from './pages/Home'
 import Abinav from './pages/Abinav'
 // import Akarsh from './pages/Akarsh'
 // import Akshay from './pages/Akshay'
-// import Anandhu from './pages/Anandhu'
+ import Anandhu from './pages/Anandhu'
 
 
 function App() {
