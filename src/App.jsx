@@ -9,6 +9,7 @@ import Akarsh from './pages/Akarsh'
 // import Akarsh from './pages/Akarsh'
 // import Akshay from './pages/Akshay'
  import Anandhu from './pages/Anandhu'
+import Akshay from './pages/Akshay'
 
 
 function App() {
@@ -27,8 +28,9 @@ function App() {
             <Route path='/Akshay' element={<Akshay />}></Route>*/}
             <Route path='/Anandhu' element={<Anandhu />}></Route> 
             <Route path='/Akarsh' element={<Akarsh />}></Route>
-            {/* 
             <Route path='/Akshay' element={<Akshay />}></Route>
+            {/* 
+            
             <Route path='/Anandhu' element={<Anandhu />}></Route> */}
 
           </Routes>

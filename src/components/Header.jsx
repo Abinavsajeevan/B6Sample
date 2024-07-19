@@ -12,7 +12,7 @@ function Header() {
                 <li className='nav-item'><Link className='nav-link' to='/'>Home</Link></li>
                 <li className='nav-item'><Link className='nav-link' to='/Abinav'>Abinav</Link></li>
                 <li className='nav-item'><Link className='nav-link' to='/Akarsh'>Akarsh</Link></li>
-                <li className='nav-item'><Link className='nav-link' to=''>Akshay</Link></li>
+                <li className='nav-item'><Link className='nav-link' to='/Akshay'>Akshay</Link></li>
                 <li className='nav-item'><Link className='nav-link' to='/Anandhu'>Anandhu</Link></li>
                 
             </ul>
